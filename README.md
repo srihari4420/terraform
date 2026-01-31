@@ -12,7 +12,6 @@ Note: If you found the content helpful, consider giving the repository a star тн
 
 ### Module 1: Core Concepts
 
-#### Day1: [![Introduction to Terraform](https://img.youtube.com/vi/j0mfH_7sR7k/sddefault.jpg)](https://youtu.be/j0mfH_7sR7k)
 - Understanding Infrastructure as Code (IaC)
 - Why we need IaC
 - What is Terraform and its benefits
